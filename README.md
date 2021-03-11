@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{404-not-found-dev-challange.vercel.app}">
+    <a href="https://404-not-found-dev-challange.vercel.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/priyam06/404-not-found-dev-challange.git}">
+    <a href="https://github.com/priyam06/404-not-found-dev-challange.git">
       Solution
     </a>
     <span> | </span>
