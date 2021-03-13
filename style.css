@@ -18,6 +18,7 @@
 
 body{
     background-color: var(--bgColor);
+    
 }
 
 .container{
@@ -138,7 +139,8 @@ body{
 }
 
 
-@media only screen and (max-width: 40em) {
+
+@media only screen and (max-width: 660px) {
     .container{
         margin: 10px;
     }
@@ -192,3 +194,18 @@ body{
     }
     
  } 
+
+
+ @media all and (min-width: 660px) and (max-width: 1024px) { 
+    .main-content{
+        grid-template-columns: 100%;
+        grid-template-rows: max-content;
+        justify-items: center;
+        margin-top: 60px;
+
+    }
+
+    .right{
+        margin: 0;
+    }
+ }
